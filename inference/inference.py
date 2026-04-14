@@ -1,13 +1,13 @@
 from transformers import pipeline
 
-def generate(model_path, prompt):
-    pipe = pipeline(
-        "text-generation",
-        model=model_path
-    )
+pipe = pipeline(
+    "text-generation",
+    model="outputs/final_model",
+    device_map="auto"
+)
 
-    return pipe(prompt, max_new_tokens=100)[0]["generated_text"]
+prompt = "<|im_start|>user\nExplain AI<|im_end|>\n<|im_start|>assistant\n"
 
+result = pipe(prompt, max_new_tokens=100)
 
-if __name__ == "__main__":
-    print(generate("outputs/final_model", "Explain AI"))
+print(result[0]["generated_text"])
