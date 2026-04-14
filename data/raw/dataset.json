@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "Compare cybersecurity and neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare cybersecurity and neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Compare cloud computing and data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare cloud computing and data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Compare data science and neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare data science and neural networks."
+  },
+  {
+    "instruction": "Compare cybersecurity and Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare cybersecurity and Python."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Compare neural networks and blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare neural networks and blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Compare machine learning and Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare machine learning and Python."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare neural networks and cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare neural networks and cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Compare Docker and neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare Docker and neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare Python and data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare Python and data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Compare blockchain and Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare blockchain and Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Compare cybersecurity and AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare cybersecurity and AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare data science and Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare data science and Docker."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Compare machine learning and data science.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare machine learning and data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Compare blockchain and cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare blockchain and cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Compare data science and Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare data science and Docker."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Compare Python and cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare Python and cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare blockchain and cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare blockchain and cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Compare machine learning and AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare machine learning and AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "Compare cloud computing and Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare cloud computing and Python."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare AI and neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare AI and neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Compare blockchain and neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare blockchain and neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare AI and cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare AI and cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Compare neural networks and AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare neural networks and AI."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Compare machine learning and Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare machine learning and Docker."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Compare data science and neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare data science and neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare blockchain and AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare blockchain and AI."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare machine learning and Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare machine learning and Python."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare Docker and cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare Docker and cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Compare data science and cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare data science and cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Compare neural networks and blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare neural networks and blockchain."
+  },
+  {
+    "instruction": "Compare cybersecurity and blockchain.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare cybersecurity and blockchain."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Compare Docker and AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare Docker and AI."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare Docker and neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare Docker and neural networks."
+  },
+  {
+    "instruction": "Compare blockchain and neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare blockchain and neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Compare cloud computing and cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare cloud computing and cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Compare Python and AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare Python and AI."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Compare neural networks and data science.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare neural networks and data science."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Compare machine learning and AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare machine learning and AI."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Compare cloud computing and cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare cloud computing and cybersecurity."
+  },
+  {
+    "instruction": "Compare machine learning and Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare machine learning and Python."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Compare cloud computing and machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare cloud computing and machine learning."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Compare blockchain and data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare blockchain and data science."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Compare machine learning and neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare machine learning and neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Compare blockchain and cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare blockchain and cybersecurity."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Compare neural networks and Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare neural networks and Python."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare Docker and AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare Docker and AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Compare neural networks and cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare neural networks and cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Compare machine learning and Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare machine learning and Python."
+  },
+  {
+    "instruction": "Compare cybersecurity and machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare cybersecurity and machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare neural networks and data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare neural networks and data science."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Compare neural networks and data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare neural networks and data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare blockchain and AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare blockchain and AI."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare cloud computing and Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare cloud computing and Python."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare cybersecurity and data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare cybersecurity and data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare machine learning and blockchain.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare machine learning and blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare Python and cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare Python and cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Compare cybersecurity and AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare cybersecurity and AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Compare Docker and cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare Docker and cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Compare data science and cloud computing.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare data science and cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Compare machine learning and cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare machine learning and cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Compare neural networks and cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare neural networks and cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Compare Docker and AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare Docker and AI."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Compare cloud computing and Docker.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare cloud computing and Docker."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Compare data science and Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare data science and Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Compare blockchain and Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare blockchain and Docker."
+  },
+  {
+    "instruction": "Compare AI and Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare AI and Docker."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Compare Docker and blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare Docker and blockchain."
+  },
+  {
+    "instruction": "Compare Python and cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare Python and cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Compare Python and cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare Python and cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Compare Docker and AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare Docker and AI."
+  },
+  {
+    "instruction": "Compare neural networks and Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare neural networks and Python."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Compare data science and AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare data science and AI."
+  },
+  {
+    "instruction": "Compare Python and AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare Python and AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Compare Python and cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare Python and cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare neural networks and Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare neural networks and Python."
+  },
+  {
+    "instruction": "Compare Docker and machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare Docker and machine learning."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Compare data science and blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare data science and blockchain."
+  },
+  {
+    "instruction": "Compare blockchain and data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare blockchain and data science."
+  },
+  {
+    "instruction": "Compare cybersecurity and Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Compare cybersecurity and Python."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Compare Python and Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare Python and Docker."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Compare AI and Docker.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare AI and Docker."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Compare Python and blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare Python and blockchain."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare Docker and neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare Docker and neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about blockchain."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Compare blockchain and data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare blockchain and data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Compare machine learning and Docker.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare machine learning and Docker."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Compare data science and cloud computing.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Compare data science and cloud computing."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare machine learning and AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare machine learning and AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Compare AI and Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare AI and Docker."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Explain the concept of Docker.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of Docker."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Compare Docker and Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare Docker and Python."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write code in Python for cloud computing."
+  },
+  {
+    "instruction": "Compare cybersecurity and neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare cybersecurity and neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare Python and cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare Python and cybersecurity."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Compare Docker and blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare Docker and blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Generate a professional email about machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Compare machine learning and AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare machine learning and AI."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Compare Python and blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare Python and blockchain."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Explain the concept of neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "List benefits of cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "List benefits of data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of data science."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "List benefits of blockchain.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of blockchain."
+  },
+  {
+    "instruction": "List benefits of neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Compare Docker and AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Compare Docker and AI."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Generate a professional email about cloud computing.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write code in Python for AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for AI."
+  },
+  {
+    "instruction": "Generate a professional email about Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Generate a professional email about Docker."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "List benefits of Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of Python."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Generate a professional email about neural networks.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about neural networks."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Compare cybersecurity and data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Compare cybersecurity and data science."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "List benefits of machine learning.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: List benefits of machine learning."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Compare AI and cloud computing.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Compare AI and cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Write a short paragraph about Docker.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write a short paragraph about Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about machine learning."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Compare neural networks and AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare neural networks and AI."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Compare blockchain and Docker.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare blockchain and Docker."
+  },
+  {
+    "instruction": "Compare neural networks and Python.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Compare neural networks and Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for neural networks.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Write code in Python for neural networks."
+  },
+  {
+    "instruction": "Write a short paragraph about Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about Python."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "List benefits of cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of cybersecurity."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare cloud computing and machine learning.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Compare cloud computing and machine learning."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Translate the sentence to French.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to French."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Generate a professional email about cybersecurity.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Generate a professional email about cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "List benefits of AI.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: List benefits of AI."
+  },
+  {
+    "instruction": "Generate a professional email about data science.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Generate a professional email about data science."
+  },
+  {
+    "instruction": "Write a short paragraph about cloud computing.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about cloud computing."
+  },
+  {
+    "instruction": "Compare data science and Python.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare data science and Python."
+  },
+  {
+    "instruction": "Explain the concept of data science.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Compare neural networks and machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare neural networks and machine learning."
+  },
+  {
+    "instruction": "Explain the concept of blockchain.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Explain the concept of blockchain."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Write code in Python for cybersecurity.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for cybersecurity."
+  },
+  {
+    "instruction": "Translate the sentence to Spanish.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Translate the sentence to Spanish."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Write a short paragraph about neural networks.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write a short paragraph about neural networks."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for machine learning.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write code in Python for machine learning."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Compare Python and cloud computing.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Compare Python and cloud computing."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Translate the sentence to German.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Translate the sentence to German."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Generate a professional email about Python.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about Python."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Generate a professional email about AI.",
+    "input": "Sample input related to Python",
+    "output": "Sample output for: Generate a professional email about AI."
+  },
+  {
+    "instruction": "Write code in Python for data science.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for data science."
+  },
+  {
+    "instruction": "Write a short paragraph about AI.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write a short paragraph about AI."
+  },
+  {
+    "instruction": "Explain the concept of cybersecurity.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Explain the concept of cybersecurity."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Write code in Python for blockchain.",
+    "input": "Sample input related to blockchain",
+    "output": "Sample output for: Write code in Python for blockchain."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for Docker.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Write code in Python for Docker."
+  },
+  {
+    "instruction": "Write a short paragraph about data science.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about data science."
+  },
+  {
+    "instruction": "Fix grammar in the sentence.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Fix grammar in the sentence."
+  },
+  {
+    "instruction": "Write code in Python for Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Write code in Python for Python."
+  },
+  {
+    "instruction": "List benefits of Docker.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: List benefits of Docker."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to AI",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Translate the sentence to Urdu.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Translate the sentence to Urdu."
+  },
+  {
+    "instruction": "Write a short paragraph about cybersecurity.",
+    "input": "Sample input related to cloud computing",
+    "output": "Sample output for: Write a short paragraph about cybersecurity."
+  },
+  {
+    "instruction": "Summarize the following text.",
+    "input": "Sample input related to cybersecurity",
+    "output": "Sample output for: Summarize the following text."
+  },
+  {
+    "instruction": "Classify the sentiment.",
+    "input": "Sample input related to machine learning",
+    "output": "Sample output for: Classify the sentiment."
+  },
+  {
+    "instruction": "Explain the concept of Python.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of Python."
+  },
+  {
+    "instruction": "Compare cybersecurity and Python.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Compare cybersecurity and Python."
+  },
+  {
+    "instruction": "Explain the concept of AI.",
+    "input": "Sample input related to data science",
+    "output": "Sample output for: Explain the concept of AI."
+  },
+  {
+    "instruction": "Explain the concept of machine learning.",
+    "input": "Sample input related to neural networks",
+    "output": "Sample output for: Explain the concept of machine learning."
+  },
+  {
+    "instruction": "Explain the concept of cloud computing.",
+    "input": "Sample input related to Docker",
+    "output": "Sample output for: Explain the concept of cloud computing."
+  }
+]

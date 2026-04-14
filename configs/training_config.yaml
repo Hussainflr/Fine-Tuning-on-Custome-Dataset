@@ -1,0 +1,16 @@
+model_name: Qwen/Qwen2-1.5B-Instruct
+
+training:
+  batch_size: 2
+  epochs: 3
+  learning_rate: 2e-4
+  logging_steps: 10
+  save_steps: 100
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+
+quantization:
+  use_4bit: true
